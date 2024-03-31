@@ -9,6 +9,6 @@ export { default as CardDeal } from "./card-deal/card-deal";
 export { default as Testimonials } from "./testimonials/testimonials";
 export { default as Clients } from "./clients/clients";
 export { default as CTA } from "./cta/cta";
-export { default as FeedbackCrad } from "./feedback-card/feedback-card";
+export { default as FeedbackCard } from "./feedback-card/feedback-card";
 export { default as Button } from "./button/button";
 export { default as Footer } from "./footer/footer";
